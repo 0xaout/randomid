@@ -1,2 +1,2 @@
 # randomid
-random id generator
+an infinite random id generator
